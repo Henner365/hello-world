@@ -1,5 +1,6 @@
 #include <iostream>
 int main()
-{ return 0;
+{ std::cout<<"Jeg er foran tvet."<<std::endl;
+  return 0;
   }
 //fin code.
