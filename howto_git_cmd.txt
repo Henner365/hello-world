@@ -1,4 +1,41 @@
 Your Identity
-The first thing you should do when you install Git is to set your user name and email address. This is important because every Git commit uses this information, and it’s immutably baked into the commits you start creating:
+The first thing you should do when you install Git is to set your user name and email address.
+This is important because every Git commit uses this information, and it’s immutably baked 
+into the commits you start creating:
+
 $ git config --global user.name "John Doe"
 $ git config --global user.email johndoe@example.com
+
+Checking Your Settings
+If you want to check your configuration settings, you can use the git config --list command to list all the settings Git can find at that point:
+$ git config --list
+
+
+If you ever need help while using Git, there are two equivalent ways to get the comprehensive manual page (manpage) help for any of the Git commands:
+$ git help <verb>
+$ man git-<verb>
+For example, you can get the manpage help for the git config command by running
+$ git help config
+
+get startet :
+
+$ cd /c/user/my_project
+
+next,
+
+$ git init
+
+[[ This creates a new subdirectory named .git that contains all of your necessary repository files — a Git repository skeleton. At this point, nothing in your project is tracked yet. (See Git Internals for more information about exactly what files are contained in the .git directory you just created.) ]]
+
+
+[[If you want to start version-controlling existing files (as opposed to an empty directory), you should probably begin tracking those files and do an initial commit. You can accomplish that with a few git add commands that specify the files you want to track, followed by a git commit:]]
+
+
+$ git add *.c
+$ git add LICENSE
+$ git commit -m 'initial project version'
+
+
+You clone a repository with git clone <url>. For example, if you want to clone hello-world, you can do so like this:
+$ git clone https://github.com/Henner365/hello-world
+
