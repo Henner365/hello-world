@@ -1,6 +1,24 @@
 #include <iostream>
+#include <vector>
+
+
+template <typename T, int i> void mArray()  {
+
+	T mArr[i];
+
+}
+
+
+
+
 int main()
-{ std::cout<<"Jeg er pÃ¥ toppen af verden ."<<std::endl;
-  return 0;
-  }
+{ 
+
+	mArray  <char,5>();
+	std::cout<<"Jeg er på toppen af verden .\n";
+	//<char,5>mArray();
+
+
+  	return 0;
+}
 //fin code.
