@@ -1,10 +1,10 @@
 # hello-world
 #
-Hej. 
-Jeg hedder henrik. Er 54 år gammel.
-Er klar til github.
-Kan lide at være anonym, at arbejde uden at være i fjernsynet.
-Har en klar svaghed for c++.
+Hey
+I am henrik. Er 57 years of age.
+like github.
+like to operate anonymous.
+weakness for c++.
 #include <iostream>
 int main(){
 return 0;}
