@@ -1,10 +1,17 @@
 #include <iostream>
-#include <vector>
 
+// runnable.
 
-template <typename T, int i> void mArray()  {
+template <typename T, int max> int minArray(T arr[], int n)  {
 
-	T mArr[i];
+	int smt = max;
+	for (int i = 0; i < n; i++) 
+	{
+		if (arr[i] < smt) 
+         	smt = arr[i]; 
+	}
+	
+	return smt;
 
 }
 
@@ -13,10 +20,10 @@ template <typename T, int i> void mArray()  {
 
 int main()
 { 
-
-	mArray  <char,5>();
-	std::cout<<"Jeg er på toppen af verden .\n";
-	//<char,5>mArray();
+	int iArr[] ={10,21,15,17};
+	std::cout<<" min value : "<<minArray  <int,100>(iArr,4);
+	std::cout<<"Jeg er pÃ¥ toppen af verden .\n";
+	
 
 
   	return 0;
