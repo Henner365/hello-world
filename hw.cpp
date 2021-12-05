@@ -4,8 +4,11 @@
 
 template <typename T, int i> void mArray()  {
 
+	int x=0,v = (int) 'a';
 	T mArr[i];
-
+	for (x=0;x<i;x++)
+	mArr[x]=v++; 
+	std::cout<<mArr[3];
 }
 
 

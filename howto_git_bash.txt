@@ -2,5 +2,5 @@ cd /c/henrik/fil/prog/git
 vælg billede f.eks. cd hello-world
 -> git status;
 
-og evt git diff \.;
+og evt git diff ;
 
