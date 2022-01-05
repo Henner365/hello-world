@@ -1,6 +1,21 @@
+Du må ikke kompilere hw.cpp her.
+
 cd /c/henrik/fil/prog/git
 vælg billede f.eks. cd hello-world
 -> git status;
 
 og evt git diff ;
+
+jeg måtte gøre flg.
+
+git add -u
+da den ellers ikke ville committe ?.
+
+det var fordi jeg havde compileret hw.cpp
+og slette exe filen igen.
+
+Det skal git have besked om.
+
+
+
 
