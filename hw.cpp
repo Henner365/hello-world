@@ -18,7 +18,7 @@ int main()
 { 
 
 	mArray  <char,5>();
-	std::cout<<"Jeg er på toppen af verden .\n";
+	std::cout<<"Jeg er på git delen af verden .\n";
 	//<char,5>mArray();
 
 
