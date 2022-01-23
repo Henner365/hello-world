@@ -1,7 +1,7 @@
 # hello-world
 #
 Hej 
-Jeg hedder henrik. Er 58 år gammel.
+I am henrik. Er 58 years.
 ready for git and github.
 Born a bit anonymous, like to work from the dark cellar.
 weakness for c++.
