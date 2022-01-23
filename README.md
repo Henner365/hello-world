@@ -1,11 +1,12 @@
 # hello-world
 #
 Hej 
-Jeg hedder henrik. Er 54 år gammel.
-Er klar til github.
-Kan lide at være anonym, at arbejde uden at være i fjernsynet.
-Har en klar svaghed for c++.
+Jeg hedder henrik. Er 58 år gammel.
+ready for git and github.
+Born a bit anonymous, like to work from the dark cellar.
+weakness for c++.
 #include <iostream>
 int main(){
 return 0;}
+  So endless many challenges and oppertunities.
 
