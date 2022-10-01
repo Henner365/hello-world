@@ -2,7 +2,7 @@
 #
 
 Hej 
-I am henrik. Er 58 years.
+I am henrik. Am 59 years.
 ready for git and github.
 Born a bit anonymous, like to work from the dark cellar.
 weakness for c++.
