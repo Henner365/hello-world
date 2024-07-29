@@ -2,7 +2,7 @@
 #
 
 Hej 
-I am henrik. Am 59 years.
+I am henrik. Am 61 years.
 ready for git and github.
 Born a bit anonymous, like to work from the dark cellar.
 weakness for c++.
@@ -12,5 +12,6 @@ return 0;}
   So endless many challenges and oppertunities.
 =======
 Here is a comment from 23.1.22
+
 
 
