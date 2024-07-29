@@ -2,4 +2,8 @@ https://help.github.com/articles/adding-a-file-to-a-repository-using-the-command
 
 https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
 
+22.1.22
+this is usefull :
+https://www.geeksforgeeks.org/top-12-most-used-git-commands-for-developers/
+
 
