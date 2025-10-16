@@ -38,11 +38,6 @@ Use a CODEOWNERS file to define specific individuals or teams responsible for re
 Enable Status Checks to ensure all tests pass before merging.
 This setup ensures that merges are verified and approved by designated reviewers, adding an extra layer of quality control to your repository.
 
-#include <iostream>
-int main(){
-return 0;}
-  So endless many challenges and oppertunities.
-=======
-Here is a comment from 23.1.22
+
 
 
